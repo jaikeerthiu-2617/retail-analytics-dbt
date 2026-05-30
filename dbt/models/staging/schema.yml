@@ -1,0 +1,46 @@
+version: 2
+
+models:
+  - name: stg_products
+    description: Cleaned and deduplicated product records from the FakeStore API.
+    columns:
+      - name: product_key
+        description: Natural product identifier from the source API.
+        tests:
+          - unique
+          - not_null
+      - name: title
+        description: Product display title.
+      - name: category
+        description: Upper-cased product category.
+      - name: price
+        description: Current listed price rounded to two decimals.
+
+  - name: stg_customers
+    description: Cleaned and deduplicated customer records from the CSV source.
+    columns:
+      - name: customer_natural_key
+        description: Natural customer identifier from the source file.
+        tests:
+          - unique
+          - not_null
+      - name: full_name
+        description: Customer first and last name concatenated.
+      - name: email
+        description: Lower-cased email address.
+      - name: customer_tier
+        description: Loyalty tier after validation.
+
+  - name: stg_orders
+    description: Cleaned, deduplicated, non-cancelled order records from JSON events.
+    columns:
+      - name: order_natural_key
+        description: Natural order identifier from the event source.
+        tests:
+          - unique
+          - not_null
+      - name: order_status
+        description: Current source order status after cancelled orders are filtered out.
+        tests:
+          - accepted_values:
+              values: ['Completed', 'Pending']

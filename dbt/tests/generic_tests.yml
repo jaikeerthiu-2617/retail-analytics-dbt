@@ -1,0 +1,9 @@
+version: 2
+
+macros:
+  - name: generate_surrogate_key
+    description: Generates a deterministic MD5 surrogate key from one or more fields.
+    arguments:
+      - name: fields
+        type: list
+        description: SQL expressions to coalesce, concatenate, and hash.

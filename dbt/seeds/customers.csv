@@ -1,0 +1,211 @@
+customer_id,first_name,last_name,email,phone,city,state,country,customer_tier,signup_date
+C001,Ananya,Anderson,ananya.anderson001@example.in,+91-8338811290,Kolkata,West Bengal,India,Silver,2023-03-29
+C002,Jane,Wilson,jane.wilson002@example.com,+1-662-323-5061,Denver,Colorado,USA,Bronze,2022-04-06
+C003,Aditya,Smith,aditya.smith003@example.in,+91-9526766690,Bengaluru,Karnataka,India,Silver,2022-04-17
+C004,Daniel,Khan,daniel.khan004@example.in,+91-7304912982,Bengaluru,Karnataka,India,Bronze,2021-05-01
+C005,Diya,Iyer,diya.iyer005@example.in,+91-8419179580,Mumbai,Maharashtra,India,Silver,2021-05-26
+C006,David,Khan,david.khan006@example.in,+91-9873237671,Jaipur,Rajasthan,India,Silver,2023-09-22
+C007,Ananya,Anderson,ananya.anderson007@example.in,+91-9452611418,Chennai,Tamil Nadu,India,Gold,2023-08-27
+C008,Diya,Miller,diya.miller008@example.com,+1-394-296-2588,Austin,Texas,USA,Gold,2023-06-02
+C009,Jane,Davis,jane.davis009@example.com,+1-678-946-1887,Austin,Texas,USA,Silver,2021-07-21
+C010,Vivaan,Brown,vivaan.brown010@example.com,+1-311-454-4139,New York,New York,USA,Silver,2022-01-25
+C011,Laura,Wilson,laura.wilson011@example.in,+91-8811967841,Chennai,Tamil Nadu,India,Silver,2022-01-11
+C012,Neha,Wilson,neha.wilson012@example.in,+91-7323775634,Ahmedabad,Gujarat,India,Bronze,2023-06-27
+C013,Laura,Reddy,laura.reddy013@example.in,+91-9800940984,Mumbai,Maharashtra,India,Silver,2021-01-31
+C014,Aditya,Khan,aditya.khan014@example.in,+91-8745535098,Pune,Maharashtra,India,Silver,2023-09-22
+C015,Sarah,Nair,sarah.nair015@example.com,+1-260-368-7209,Seattle,Washington,USA,Bronze,2021-01-05
+C016,Michael,Singh,michael.singh016@example.com,+1-492-633-8973,Chicago,Illinois,USA,Bronze,2021-11-14
+C017,Ananya,Joshi,ananya.joshi017@example.in,+91-7251183830,Kolkata,West Bengal,India,Silver,2021-05-05
+C018,John,Patel,john.patel018@example.in,+91-9509023674,Mumbai,Maharashtra,India,Silver,2023-09-04
+C019,David,Taylor,david.taylor019@example.in,+91-7244295904,Pune,Maharashtra,India,Gold,2023-11-07
+C020,Aditya,Mehta,aditya.mehta020@example.in,+91-9555656321,Delhi,Delhi,India,Gold,2021-05-20
+C021,Diya,Brown,diya.brown021@example.in,+91-9446737272,Hyderabad,Telangana,India,Bronze,2022-05-20
+C022,Daniel,Moore,daniel.moore022@example.in,+91-9660223333,Mumbai,Maharashtra,India,Gold,2021-06-17
+C023,Emily,Thomas,emily.thomas023@example.com,+1-735-523-5272,Miami,Florida,USA,Silver,2022-02-23
+C024,John,Khan,john.khan024@example.in,+91-8699887270,Jaipur,Rajasthan,India,Silver,2021-09-26
+C025,Kavya,Wilson,kavya.wilson025@example.com,+1-969-274-1152,New York,New York,USA,Bronze,2023-07-28
+C026,Olivia,Thomas,olivia.thomas026@example.in,+91-7314652384,Hyderabad,Telangana,India,Bronze,2022-03-13
+C027,David,Singh,david.singh027@example.in,+91-8498981529,Chennai,Tamil Nadu,India,Silver,2021-05-21
+C028,Diya,Johnson,diya.johnson028@example.in,+91-7677517496,Kochi,Kerala,India,Silver,2023-06-17
+C029,Laura,Joshi,laura.joshi029@example.com,+1-869-741-1128,Portland,Oregon,USA,Gold,2022-09-06
+C030,Ishaan,Gupta,ishaan.gupta030@example.in,+91-7495762348,Jaipur,Rajasthan,India,Bronze,2021-08-08
+C031,Laura,Gupta,laura.gupta031@example.in,+91-8210133979,Jaipur,Rajasthan,India,Gold,2022-03-08
+C032,John,Nair,john.nair032@example.in,+91-9170715377,Jaipur,Rajasthan,India,Silver,2023-09-28
+C033,Neha,Patel,neha.patel033@example.in,+91-9724230947,Delhi,Delhi,India,Gold,2023-05-18
+C034,Neha,Patel,neha.patel034@example.in,+91-8432614422,Bengaluru,Karnataka,India,Gold,2021-09-25
+C035,Neha,Mehta,neha.mehta035@example.com,+1-764-922-8007,Chicago,Illinois,USA,Bronze,2021-01-20
+C036,Ishaan,Iyer,ishaan.iyer036@example.in,+91-9343292475,Chennai,Tamil Nadu,India,Silver,2021-03-15
+C037,Jane,Thomas,jane.thomas037@example.com,+1-351-640-3088,Atlanta,Georgia,USA,Silver,2021-03-27
+C038,Kavya,Johnson,kavya.johnson038@example.in,+91-8536778950,Mumbai,Maharashtra,India,Bronze,2022-03-07
+C039,Diya,Reddy,diya.reddy039@example.com,+1-998-773-7658,San Francisco,California,USA,Gold,2021-11-13
+C040,Diya,Mehta,diya.mehta040@example.in,+91-8770791023,Pune,Maharashtra,India,Bronze,2021-02-20
+C041,Priya,Smith,priya.smith041@example.com,+1-885-952-5065,Austin,Texas,USA,Bronze,2022-07-01
+C042,Priya,Reddy,priya.reddy042@example.com,+1-239-681-4644,Seattle,Washington,USA,Silver,2022-02-13
+C043,Chris,Johnson,chris.johnson043@example.in,+91-7977515194,Kochi,Kerala,India,Gold,2022-04-02
+C044,Aarav,Nair,aarav.nair044@example.com,+1-536-485-2137,Seattle,Washington,USA,Bronze,2022-07-26
+C045,Jane,Taylor,jane.taylor045@example.com,+1-895-749-6425,Seattle,Washington,USA,Bronze,2021-02-26
+C046,Ishaan,Singh,ishaan.singh046@example.in,+91-9493613917,Pune,Maharashtra,India,Silver,2022-06-28
+C047,Vivaan,Reddy,vivaan.reddy047@example.com,+1-644-553-6139,Portland,Oregon,USA,Silver,2023-06-13
+C048,Olivia,Taylor,olivia.taylor048@example.in,+91-8654401763,Hyderabad,Telangana,India,Silver,2022-01-25
+C049,Neha,Patel,neha.patel049@example.com,+1-201-732-9821,Austin,Texas,USA,Silver,2022-02-08
+C050,Jane,Davis,jane.davis050@example.in,+91-9852879124,Delhi,Delhi,India,Silver,2022-11-08
+C051,Olivia,Smith,olivia.smith051@example.in,+91-8289874320,Hyderabad,Telangana,India,Silver,2023-11-05
+C052,Kavya,Davis,kavya.davis052@example.com,+1-612-913-5844,New York,New York,USA,Silver,2021-09-18
+C053,Ananya,Davis,ananya.davis053@example.com,+1-893-966-3851,Seattle,Washington,USA,Silver,2022-09-09
+C054,Michael,Anderson,michael.anderson054@example.in,+91-8305132983,Bengaluru,Karnataka,India,Bronze,2022-08-11
+C055,Ananya,Davis,ananya.davis055@example.com,+1-821-870-6279,Miami,Florida,USA,Silver,2023-08-11
+C056,Chris,Wilson,chris.wilson056@example.in,+91-9195475598,Kolkata,West Bengal,India,Gold,2023-08-28
+C057,Priya,Iyer,priya.iyer057@example.in,+91-9213849513,Kochi,Kerala,India,Bronze,2022-11-18
+C058,Aditya,Khan,aditya.khan058@example.in,+91-7964824319,Kochi,Kerala,India,Bronze,2022-02-12
+C059,Rohan,Sharma,rohan.sharma059@example.in,+91-8051590706,Mumbai,Maharashtra,India,Gold,2023-09-01
+C060,Olivia,Iyer,olivia.iyer060@example.com,+1-624-844-4185,Chicago,Illinois,USA,Silver,2023-02-26
+C061,Sarah,Brown,sarah.brown061@example.in,+91-7633814084,Ahmedabad,Gujarat,India,Silver,2021-01-12
+C062,Ishaan,Davis,ishaan.davis062@example.in,+91-7755427535,Ahmedabad,Gujarat,India,Gold,2023-11-27
+C063,Chris,Patel,chris.patel063@example.com,+1-455-324-8478,Atlanta,Georgia,USA,Bronze,2021-10-01
+C064,Chris,Taylor,chris.taylor064@example.com,+1-809-524-8251,Atlanta,Georgia,USA,Bronze,2023-10-31
+C065,Emily,Anderson,emily.anderson065@example.com,+1-362-961-8777,Chicago,Illinois,USA,Silver,2023-07-11
+C066,Neha,Khan,neha.khan066@example.in,+91-9238965651,Jaipur,Rajasthan,India,Silver,2023-09-20
+C067,Diya,Singh,diya.singh067@example.com,+1-279-930-5681,Chicago,Illinois,USA,Silver,2022-04-26
+C068,Neha,Smith,neha.smith068@example.com,+1-753-282-3267,New York,New York,USA,Gold,2021-11-05
+C069,Diya,Brown,diya.brown069@example.in,+91-7918920620,Chennai,Tamil Nadu,India,Gold,2021-05-12
+C070,Emily,Davis,emily.davis070@example.com,+1-755-677-7812,New York,New York,USA,Bronze,2021-05-08
+C071,Ananya,Davis,ananya.davis071@example.com,+1-988-798-1320,Seattle,Washington,USA,Bronze,2023-02-19
+C072,Sarah,Sharma,sarah.sharma072@example.com,+1-505-971-7389,San Francisco,California,USA,Bronze,2023-05-09
+C073,Laura,Anderson,laura.anderson073@example.com,+1-425-699-4595,Portland,Oregon,USA,Silver,2022-07-13
+C074,Emily,Miller,emily.miller074@example.in,+91-8670128972,Bengaluru,Karnataka,India,Silver,2022-11-20
+C075,Michael,Mehta,michael.mehta075@example.com,+1-330-837-9751,Chicago,Illinois,USA,Bronze,2021-02-25
+C076,Michael,Thomas,michael.thomas076@example.com,+1-878-227-2375,Miami,Florida,USA,Silver,2023-05-28
+C077,Rohan,Wilson,rohan.wilson077@example.in,+91-7215970859,Pune,Maharashtra,India,Silver,2022-06-17
+C078,Michael,Smith,michael.smith078@example.in,+91-8952918745,Kolkata,West Bengal,India,Silver,2022-11-01
+C079,John,Brown,john.brown079@example.in,+91-8810607153,Jaipur,Rajasthan,India,Silver,2022-06-01
+C080,Aditya,Miller,aditya.miller080@example.in,+91-9316787198,Bengaluru,Karnataka,India,Bronze,2021-04-17
+C081,Jane,Khan,jane.khan081@example.in,+91-9799264931,Delhi,Delhi,India,Silver,2021-03-24
+C082,Aarav,Khan,aarav.khan082@example.in,+91-7087531510,Kolkata,West Bengal,India,Silver,2021-11-09
+C083,Diya,Gupta,diya.gupta083@example.com,+1-885-317-4571,Boston,Massachusetts,USA,Silver,2023-08-11
+C084,Neha,Johnson,neha.johnson084@example.in,+91-9602289301,Pune,Maharashtra,India,Silver,2021-08-23
+C085,Priya,Joshi,priya.joshi085@example.in,+91-9485432021,Hyderabad,Telangana,India,Bronze,2021-02-22
+C086,Kavya,Thomas,kavya.thomas086@example.com,+1-606-932-4249,Seattle,Washington,USA,Gold,2021-06-05
+C087,Daniel,Khan,daniel.khan087@example.in,+91-9994421136,Hyderabad,Telangana,India,Gold,2022-09-10
+C088,Olivia,Reddy,olivia.reddy088@example.com,+1-242-555-9728,Miami,Florida,USA,Bronze,2023-05-28
+C089,Jane,Iyer,jane.iyer089@example.com,+1-863-549-1207,Denver,Colorado,USA,Silver,2023-05-11
+C090,Sarah,Reddy,sarah.reddy090@example.com,+1-570-850-8532,Austin,Texas,USA,Bronze,2021-11-10
+C091,Emily,Mehta,emily.mehta091@example.com,+1-866-476-9817,Denver,Colorado,USA,Silver,2023-09-18
+C092,Chris,Davis,chris.davis092@example.com,+1-474-530-5022,Miami,Florida,USA,Silver,2021-06-27
+C093,Neha,Wilson,neha.wilson093@example.in,+91-8995907669,Ahmedabad,Gujarat,India,Bronze,2023-02-16
+C094,John,Sharma,john.sharma094@example.com,+1-532-386-8988,Boston,Massachusetts,USA,Silver,2022-03-11
+C095,Jane,Singh,jane.singh095@example.com,+1-486-810-5526,New York,New York,USA,Bronze,2021-01-21
+C096,David,Nair,david.nair096@example.in,+91-8036616336,Delhi,Delhi,India,Silver,2023-04-13
+C097,Sarah,Anderson,sarah.anderson097@example.in,+91-9966144543,Ahmedabad,Gujarat,India,Gold,2023-09-03
+C098,Sarah,Wilson,sarah.wilson098@example.in,+91-7399661102,Bengaluru,Karnataka,India,Bronze,2022-08-26
+C099,Diya,Brown,diya.brown099@example.in,+91-8315144891,Ahmedabad,Gujarat,India,Silver,2023-01-26
+C100,Sarah,Anderson,sarah.anderson100@example.com,+1-552-635-6419,Denver,Colorado,USA,Silver,2022-12-22
+C101,Chris,Singh,chris.singh101@example.in,+91-8079770569,Kochi,Kerala,India,Bronze,2022-04-18
+C102,Ishaan,Nair,ishaan.nair102@example.com,+1-322-960-9779,New York,New York,USA,Gold,2022-01-15
+C103,Ananya,Nair,ananya.nair103@example.com,+1-483-941-9595,Boston,Massachusetts,USA,Gold,2022-08-03
+C104,Ishaan,Nair,ishaan.nair104@example.in,+91-7977032766,Kochi,Kerala,India,Bronze,2023-01-10
+C105,Priya,Joshi,priya.joshi105@example.in,+91-9294092753,Bengaluru,Karnataka,India,Silver,2021-09-17
+C106,Neha,Patel,neha.patel106@example.in,+91-9376658660,Mumbai,Maharashtra,India,Silver,2022-08-22
+C107,Rohan,Miller,rohan.miller107@example.in,+91-7052679490,Hyderabad,Telangana,India,Silver,2022-08-06
+C108,Sarah,Miller,sarah.miller108@example.com,+1-548-388-1841,Chicago,Illinois,USA,Silver,2022-06-02
+C109,Sarah,Reddy,sarah.reddy109@example.in,+91-8721025347,Delhi,Delhi,India,Bronze,2023-10-05
+C110,Aditya,Thomas,aditya.thomas110@example.in,+91-7651662547,Mumbai,Maharashtra,India,Silver,2021-11-02
+C111,Daniel,Joshi,daniel.joshi111@example.in,+91-8065972034,Delhi,Delhi,India,Bronze,2021-08-31
+C112,Laura,Davis,laura.davis112@example.com,+1-810-833-4697,Portland,Oregon,USA,Silver,2023-12-07
+C113,Michael,Wilson,michael.wilson113@example.com,+1-504-802-8025,Chicago,Illinois,USA,Gold,2022-09-18
+C114,Daniel,Moore,daniel.moore114@example.in,+91-9618344818,Mumbai,Maharashtra,India,Silver,2021-07-23
+C115,Ananya,Nair,ananya.nair115@example.in,+91-9836517266,Jaipur,Rajasthan,India,Bronze,2021-06-16
+C116,Priya,Khan,priya.khan116@example.in,+91-9370788647,Pune,Maharashtra,India,Silver,2021-06-03
+C117,Priya,Sharma,priya.sharma117@example.com,+1-661-905-8699,Austin,Texas,USA,Bronze,2022-08-20
+C118,Vivaan,Khan,vivaan.khan118@example.in,+91-8214266162,Kochi,Kerala,India,Silver,2023-07-19
+C119,Aditya,Khan,aditya.khan119@example.in,+91-9684603688,Jaipur,Rajasthan,India,Silver,2022-02-10
+C120,Emily,Reddy,emily.reddy120@example.com,+1-430-863-3441,Atlanta,Georgia,USA,Gold,2022-06-29
+C121,Rohan,Iyer,rohan.iyer121@example.in,+91-7712632936,Mumbai,Maharashtra,India,Silver,2022-09-22
+C122,Olivia,Thomas,olivia.thomas122@example.in,+91-8886149718,Kochi,Kerala,India,Silver,2021-09-12
+C123,Chris,Joshi,chris.joshi123@example.com,+1-478-712-9847,Seattle,Washington,USA,Gold,2023-10-09
+C124,Chris,Iyer,chris.iyer124@example.com,+1-240-642-6280,Portland,Oregon,USA,Silver,2022-05-28
+C125,Aarav,Iyer,aarav.iyer125@example.in,+91-9896089430,Ahmedabad,Gujarat,India,Bronze,2021-02-12
+C126,Neha,Thomas,neha.thomas126@example.in,+91-7752438459,Mumbai,Maharashtra,India,Silver,2023-08-22
+C127,David,Wilson,david.wilson127@example.in,+91-7779489931,Jaipur,Rajasthan,India,Silver,2023-06-12
+C128,Sarah,Iyer,sarah.iyer128@example.com,+1-556-618-6460,Boston,Massachusetts,USA,Silver,2022-10-20
+C129,Ishaan,Mehta,ishaan.mehta129@example.com,+1-621-910-9117,New York,New York,USA,Silver,2022-08-14
+C130,Michael,Anderson,michael.anderson130@example.in,+91-8953462417,Mumbai,Maharashtra,India,Silver,2021-06-30
+C131,John,Singh,john.singh131@example.com,+1-318-991-7622,New York,New York,USA,Silver,2023-11-20
+C132,Aarav,Anderson,aarav.anderson132@example.com,+1-623-255-4073,Chicago,Illinois,USA,Silver,2023-11-28
+C133,Jane,Moore,jane.moore133@example.com,+1-840-652-1845,Boston,Massachusetts,USA,Silver,2022-02-21
+C134,Neha,Anderson,neha.anderson134@example.in,+91-8237075775,Chennai,Tamil Nadu,India,Silver,2023-06-17
+C135,Sarah,Reddy,sarah.reddy135@example.in,+91-9705925058,Bengaluru,Karnataka,India,Bronze,2022-05-06
+C136,Priya,Joshi,priya.joshi136@example.com,+1-214-765-7684,Atlanta,Georgia,USA,Bronze,2021-07-10
+C137,Diya,Reddy,diya.reddy137@example.com,+1-320-863-3522,Chicago,Illinois,USA,Gold,2023-10-18
+C138,Kavya,Taylor,kavya.taylor138@example.in,+91-8784517419,Jaipur,Rajasthan,India,Bronze,2023-09-16
+C139,Sarah,Khan,sarah.khan139@example.com,+1-764-348-7284,Chicago,Illinois,USA,Bronze,2022-01-26
+C140,Olivia,Taylor,olivia.taylor140@example.in,+91-7299832023,Chennai,Tamil Nadu,India,Silver,2022-07-20
+C141,Emily,Smith,emily.smith141@example.com,+1-473-202-5634,Denver,Colorado,USA,Silver,2022-09-04
+C142,Daniel,Thomas,daniel.thomas142@example.com,+1-352-657-9824,Boston,Massachusetts,USA,Bronze,2023-09-19
+C143,Jane,Smith,jane.smith143@example.com,+1-981-756-7180,Atlanta,Georgia,USA,Gold,2023-07-22
+C144,John,Nair,john.nair144@example.in,+91-9455852189,Ahmedabad,Gujarat,India,Silver,2023-02-24
+C145,Diya,Davis,diya.davis145@example.in,+91-8366556920,Mumbai,Maharashtra,India,Silver,2023-08-27
+C146,Michael,Brown,michael.brown146@example.in,+91-9127420335,Chennai,Tamil Nadu,India,Silver,2021-03-17
+C147,Rohan,Taylor,rohan.taylor147@example.com,+1-539-302-8213,Miami,Florida,USA,Bronze,2021-07-24
+C148,David,Wilson,david.wilson148@example.in,+91-7619142798,Bengaluru,Karnataka,India,Gold,2023-04-20
+C149,Rohan,Iyer,rohan.iyer149@example.com,+1-471-546-7512,Boston,Massachusetts,USA,Silver,2021-06-14
+C150,John,Anderson,john.anderson150@example.com,+1-524-841-8994,Seattle,Washington,USA,Gold,2021-03-15
+C151,Olivia,Iyer,olivia.iyer151@example.in,+91-9710815922,Ahmedabad,Gujarat,India,Silver,2022-08-12
+C152,Diya,Iyer,diya.iyer152@example.com,+1-300-978-2646,Austin,Texas,USA,Silver,2023-06-28
+C153,Priya,Joshi,priya.joshi153@example.in,+91-7197529702,Bengaluru,Karnataka,India,Gold,2022-10-27
+C154,Vivaan,Joshi,vivaan.joshi154@example.com,+1-583-641-3385,San Francisco,California,USA,Silver,2022-05-16
+C155,David,Davis,david.davis155@example.com,+1-898-384-3785,Miami,Florida,USA,Silver,2021-12-25
+C156,Aditya,Moore,aditya.moore156@example.com,+1-834-899-4945,Seattle,Washington,USA,Silver,2023-10-17
+C157,Daniel,Gupta,daniel.gupta157@example.in,+91-8980623803,Ahmedabad,Gujarat,India,Gold,2022-06-05
+C158,Chris,Singh,chris.singh158@example.in,+91-8998247509,Bengaluru,Karnataka,India,Silver,2022-08-13
+C159,Laura,Mehta,laura.mehta159@example.in,+91-8897214963,Delhi,Delhi,India,Bronze,2022-12-09
+C160,Daniel,Joshi,daniel.joshi160@example.com,+1-906-456-8484,Austin,Texas,USA,Bronze,2022-09-11
+C161,Ananya,Brown,ananya.brown161@example.com,+1-309-442-7248,Boston,Massachusetts,USA,Silver,2023-01-06
+C162,Daniel,Joshi,daniel.joshi162@example.in,+91-7094229853,Kochi,Kerala,India,Bronze,2023-03-22
+C163,Neha,Sharma,neha.sharma163@example.com,+1-902-996-1803,Miami,Florida,USA,Gold,2023-10-15
+C164,Kavya,Khan,kavya.khan164@example.com,+1-560-424-4115,Portland,Oregon,USA,Bronze,2022-05-29
+C165,Rohan,Reddy,rohan.reddy165@example.in,+91-8326856608,Mumbai,Maharashtra,India,Silver,2023-06-22
+C166,Vivaan,Thomas,vivaan.thomas166@example.com,+1-949-334-2476,San Francisco,California,USA,Bronze,2022-08-28
+C167,John,Davis,john.davis167@example.in,+91-7862407093,Pune,Maharashtra,India,Silver,2021-09-28
+C168,Laura,Johnson,laura.johnson168@example.com,+1-713-479-3695,Denver,Colorado,USA,Gold,2022-06-11
+C169,Sarah,Joshi,sarah.joshi169@example.com,+1-317-679-2233,New York,New York,USA,Silver,2021-10-16
+C170,Diya,Brown,diya.brown170@example.com,+1-574-292-7464,Atlanta,Georgia,USA,Bronze,2021-01-29
+C171,Neha,Anderson,neha.anderson171@example.in,+91-8953291127,Hyderabad,Telangana,India,Silver,2023-01-25
+C172,Neha,Thomas,neha.thomas172@example.com,+1-853-580-2775,Seattle,Washington,USA,Silver,2022-04-24
+C173,Sarah,Sharma,sarah.sharma173@example.com,+1-774-535-4626,Portland,Oregon,USA,Silver,2021-05-10
+C174,Chris,Joshi,chris.joshi174@example.com,+1-319-343-1742,Austin,Texas,USA,Bronze,2021-03-18
+C175,Kavya,Miller,kavya.miller175@example.in,+91-7417436465,Hyderabad,Telangana,India,Bronze,2022-04-26
+C176,Laura,Gupta,laura.gupta176@example.com,+1-664-579-9850,Seattle,Washington,USA,Silver,2023-05-09
+C177,Daniel,Gupta,daniel.gupta177@example.com,+1-870-301-9017,Austin,Texas,USA,Bronze,2023-04-16
+C178,Neha,Patel,neha.patel178@example.com,+1-422-654-8285,San Francisco,California,USA,Bronze,2022-04-29
+C179,Jane,Reddy,jane.reddy179@example.com,+1-757-860-6876,San Francisco,California,USA,Bronze,2021-05-05
+C180,Michael,Singh,michael.singh180@example.in,+91-7524671997,Kolkata,West Bengal,India,Silver,2023-07-21
+C181,Aditya,Nair,aditya.nair181@example.com,+1-221-251-6464,Portland,Oregon,USA,Silver,2022-05-14
+C182,Rohan,Thomas,rohan.thomas182@example.in,+91-7294678352,Kolkata,West Bengal,India,Silver,2022-03-01
+C183,Daniel,Nair,daniel.nair183@example.in,+91-8411152518,Ahmedabad,Gujarat,India,Gold,2021-10-30
+C184,Olivia,Sharma,olivia.sharma184@example.in,+91-7621430136,Jaipur,Rajasthan,India,Gold,2021-09-24
+C185,Laura,Singh,laura.singh185@example.in,+91-7472130062,Pune,Maharashtra,India,Gold,2021-02-22
+C186,Rohan,Sharma,rohan.sharma186@example.com,+1-443-802-6304,San Francisco,California,USA,Silver,2021-02-02
+C187,Priya,Singh,priya.singh187@example.in,+91-7544423789,Mumbai,Maharashtra,India,Bronze,2023-05-13
+C188,David,Reddy,david.reddy188@example.in,+91-9045460840,Delhi,Delhi,India,Gold,2023-07-08
+C189,Jane,Taylor,jane.taylor189@example.com,+1-311-662-9254,Miami,Florida,USA,Silver,2022-03-30
+C190,Olivia,Patel,olivia.patel190@example.com,+1-508-669-1510,Denver,Colorado,USA,Bronze,2021-05-05
+C191,Sarah,Brown,sarah.brown191@example.com,+1-902-310-9032,Austin,Texas,USA,Gold,2023-06-28
+C192,Aditya,Iyer,aditya.iyer192@example.com,+1-822-351-2076,New York,New York,USA,Bronze,2021-09-16
+C193,Neha,Moore,neha.moore193@example.com,+1-761-929-6327,Miami,Florida,USA,Gold,2023-02-20
+C194,Olivia,Taylor,olivia.taylor194@example.in,+91-8948692883,Kochi,Kerala,India,Silver,2023-11-02
+C195,Olivia,Davis,olivia.davis195@example.in,+91-7491404673,Hyderabad,Telangana,India,Silver,2022-03-17
+C196,Emily,Wilson,emily.wilson196@example.in,+91-8777315761,Ahmedabad,Gujarat,India,Silver,2022-11-26
+C197,Chris,Brown,chris.brown197@example.com,+1-947-297-6120,Austin,Texas,USA,Bronze,2023-05-25
+C198,John,Singh,john.singh198@example.com,+1-356-903-8770,San Francisco,California,USA,Gold,2021-05-18
+C199,Aditya,Iyer,aditya.iyer199@example.in,+91-8854895521,Delhi,Delhi,India,Gold,2021-07-17
+C200,Jane,Gupta,jane.gupta200@example.com,+1-261-800-6400,Atlanta,Georgia,USA,Bronze,2021-09-08
+C004,Daniel,Khan,daniel.khan004.dup1@example.in,+91-7304912982,Bengaluru,Karnataka,India,Bronze,2021-05-01
+C011,Laura,Wilson,laura.wilson011.dup2@example.in,+91-8811967841,Chennai,Tamil Nadu,India,Silver,2022-01-11
+C018,John,Patel,john.patel018.dup3@example.in,+91-9509023674,Mumbai,Maharashtra,India,Silver,2023-09-04
+C025,Kavya,Wilson,kavya.wilson025.dup4@example.com,+1-969-274-1152,New York,New York,USA,Bronze,2023-07-28
+C032,John,Nair,john.nair032.dup5@example.in,+91-9170715377,Jaipur,Rajasthan,India,Silver,2023-09-28
+C039,Diya,Reddy,diya.reddy039.dup6@example.com,+1-998-773-7658,San Francisco,California,USA,Gold,2021-11-13
+C046,Ishaan,Singh,ishaan.singh046.dup7@example.in,+91-9493613917,Pune,Maharashtra,India,Silver,2022-06-28
+C053,Ananya,Davis,ananya.davis053.dup8@example.com,+1-893-966-3851,Seattle,Washington,USA,Silver,2022-09-09
+C060,Olivia,Iyer,olivia.iyer060.dup9@example.com,+1-624-844-4185,Chicago,Illinois,USA,Silver,2023-02-26
+C067,Diya,Singh,diya.singh067.dup10@example.com,+1-279-930-5681,Chicago,Illinois,USA,Silver,2022-04-26

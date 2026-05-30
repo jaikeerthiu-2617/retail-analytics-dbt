@@ -1,0 +1,10 @@
+pyspark==3.5.0
+requests==2.31.0
+snowflake-connector-python==3.6.0
+snowflake-sqlalchemy==1.5.1
+dbt-snowflake==1.7.0
+apache-airflow==2.8.0
+python-dotenv==1.0.0
+pandas==2.1.0
+faker==20.0.0
+boto3==1.34.0

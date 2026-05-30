@@ -1,0 +1,14 @@
+retail_dw:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      authenticator: "{{ env_var('SNOWFLAKE_AUTHENTICATOR', 'snowflake') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+      role: ACCOUNTADMIN
+      warehouse: RETAIL_WH
+      database: ANALYTICS_DB
+      schema: MARTS
+      threads: 4

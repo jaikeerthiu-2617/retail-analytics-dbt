@@ -1,0 +1,44 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# dbt generated artifacts and local state
+target/
+dbt_packages/
+logs/
+dbt/logs/
+dbt/target/
+dbt/dbt_packages/
+dbt/.user.yml
+
+# Airflow runtime artifacts
+airflow/logs/
+airflow/dags/__pycache__/
+airflow/airflow.db
+airflow/airflow.cfg
+airflow/webserver_config.py
+
+# Generated data/output files
+*.log
+*.tmp
+out.txt
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

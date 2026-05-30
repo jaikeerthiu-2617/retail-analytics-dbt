@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: raw
+    database: RAW_DB
+    schema: RAW
+    description: Raw landing tables loaded by PySpark ingestion jobs.
+    tables:
+      - name: raw_products
+        identifier: RAW_PRODUCTS
+        description: FakeStore API product records.
+      - name: raw_users
+        identifier: RAW_USERS
+        description: FakeStore API user records.
+      - name: raw_customers
+        identifier: RAW_CUSTOMERS
+        description: Flat-file retail customer records.
+      - name: raw_orders
+        identifier: RAW_ORDERS
+        description: Incrementally loaded JSON order events

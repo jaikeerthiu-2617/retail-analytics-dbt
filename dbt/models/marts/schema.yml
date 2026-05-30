@@ -1,0 +1,76 @@
+version: 2
+
+models:
+  - name: dim_date
+    description: Calendar date dimension from 2021-01-01 through 2025-12-31.
+    columns:
+      - name: date_key
+        description: Integer date key in YYYYMMDD format.
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_product
+    description: SCD Type 1 product dimension with current FakeStore product attributes.
+    config:
+      meta:
+        scd_type: SCD1
+    columns:
+      - name: product_key
+        description: Product natural key from FakeStore.
+        tests:
+          - unique
+          - not_null
+      - name: scd_type
+        description: Dimension change handling type. Product uses SCD Type 1 overwrite semantics.
+        tests:
+          - accepted_values:
+              values: ['SCD1']
+
+  - name: dim_customer
+    description: SCD Type 2 customer dimension based on dbt snapshots.
+    config:
+      meta:
+        scd_type: SCD2
+    columns:
+      - name: customer_surrogate_key
+        description: Surrogate key hashed from natural key and SCD valid-from timestamp.
+        tests:
+          - unique
+          - not_null
+      - name: scd_type
+        description: Dimension change handling type. Customer uses SCD Type 2 historical versioning.
+        tests:
+          - accepted_values:
+              values: ['SCD2']
+      - name: customer_natural_key
+        description: Original source customer identifier.
+        tests:
+          - not_null
+
+  - name: fact_orders
+    description: Fact table at one row per order line item.
+    columns:
+      - name: order_surrogate_key
+        description: Surrogate order key hashed from the source order identifier.
+        tests:
+          - unique
+          - not_null
+      - name: date_key
+        description: Foreign key to dim_date.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_key
+      - name: customer_surrogate_key
+        description: Foreign key to dim_customer current record.
+        tests:
+          - not_null
+      - name: product_key
+        description: Foreign key to dim_product.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_product')
+              field: product_key

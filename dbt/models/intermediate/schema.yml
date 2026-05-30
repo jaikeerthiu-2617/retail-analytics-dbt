@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: int_order_items_enriched
+    description: Order line items enriched with product attributes and date parts.
+    columns:
+      - name: order_natural_key
+        description: Natural order identifier.
+        tests:
+          - not_null
+      - name: product_id
+        description: Product identifier used to join the product dimension.
+        tests:
+          - not_null
+      - name: final_amount
+        description: Net order line value after discount.
